@@ -1,0 +1,33 @@
+{
+  "background_color": "#14151D",
+  "display": "standalone",
+  "homepage_url": "https://new.defipool.finance/swap",
+  "providedBy": {
+    "name": "DeFiPool",
+    "url": "https://new.defipool.finance/swap"
+  },
+  "icons": [
+    {
+      "src": "./images/192x192_App_Icon.png",
+      "sizes": "181x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "orientation": "portrait",
+  "name": "DeFi Pool",
+  "description": "Swap on the DeFi Pool Protocol",
+  "iconPath": "./images/256x256_App_Icon_Pink.svg",
+  "short_name": "DeFi Pool",
+  "start_url": "/",
+  "id": "/",
+  "theme_color": "#14151D",
+  "screenshots": [
+    {
+      "src": "/images/screenshot1.png",
+      "sizes": "3598x2008",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}

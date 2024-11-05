@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PoolDetailsStatsButton loading skeleton shown correctly 1`] = `
+<DocumentFragment>
+  .c0 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+}
+
+.c1 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+}
+
+.c5 {
+  border-radius: 12px;
+  border-radius: 12px;
+  height: 24px;
+  width: 50%;
+  width: 50%;
+  -webkit-animation: fAQEyV 1.5s infinite;
+  animation: fAQEyV 1.5s infinite;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  background: linear-gradient( to left, #FFFFFF12 25%, rgba(255,255,255,0.07) 50%, #FFFFFF12 75% );
+  will-change: background-position;
+  background-size: 400%;
+}
+
+.c2 {
+  gap: 12px;
+  z-index: 1;
+}
+
+.c6 {
+  height: 44px;
+  width: 175px;
+  border-radius: 900px;
+}
+
+.c4 {
+  gap: 2px;
+  display: none;
+}
+
+@media (max-width:1024px) {
+  .c2 {
+    gap: 8px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    margin: 8px;
+    width: calc(100% - 16px);
+    background: #131313;
+    padding: 12px 32px;
+    border: 1px solid #FFFFFF12;
+    border-radius: 20px;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    z-index: 1020;
+  }
+
+  .c2 > :first-child {
+    margin-right: auto;
+  }
+}
+
+@media (max-width:768px) {
+  .c2 {
+    bottom: 56px;
+  }
+}
+
+@media (max-width:1024px) {
+  .c4 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+
+<span
+    class="t_dark is_inversed _dsp_contents"
+  >
+    <span
+      class=" t_dark _dsp_contents is_Theme"
+    >
+      <div
+        class="c0 c1 c2"
+        data-testid="pdp-buttons-loading-skeleton"
+      >
+        <div
+          class="c3 c4"
+        >
+          <div
+            class="c5 c6"
+          />
+        </div>
+        <div
+          class="c5 c6"
+        />
+        <div
+          class="c5 c6"
+        />
+      </div>
+    </span>
+  </span>
+</DocumentFragment>
+`;

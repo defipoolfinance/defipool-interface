@@ -1,0 +1,159 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EmptyWalletContent.tsx matches base snapshot 1`] = `
+<DocumentFragment>
+  .c1 {
+  color: #FFFFFF;
+  -webkit-letter-spacing: -0.01em;
+  -moz-letter-spacing: -0.01em;
+  -ms-letter-spacing: -0.01em;
+  letter-spacing: -0.01em;
+}
+
+.c3 {
+  color: #9B9B9B;
+  -webkit-letter-spacing: -0.01em;
+  -moz-letter-spacing: -0.01em;
+  -ms-letter-spacing: -0.01em;
+  letter-spacing: -0.01em;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  height: 100%;
+  width: 100%;
+}
+
+.c2 {
+  white-space: normal;
+  margin-top: 12px;
+  text-align: center;
+}
+
+.c4 {
+  white-space: normal;
+  text-align: center;
+  margin-top: 8px;
+}
+
+.c5 {
+  background-color: #1324EE;
+  padding: 14.521px 36.303px;
+  color: #FFFFFF;
+  width: -webkit-min-content;
+  width: -moz-min-content;
+  width: min-content;
+  border: none;
+  outline: none;
+  border-radius: 90.758px;
+  white-space: nowrap;
+  cursor: pointer;
+  margin-top: 20px;
+  font-weight: 535;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+<span
+    class="t_dark is_inversed _dsp_contents"
+  >
+    <span
+      class=" t_dark _dsp_contents is_Theme"
+    >
+      <div>
+        <div
+          class="c0"
+        >
+          <div
+            class="c1 c2 common__127l8hd1 sprinkles_fontWeight_medium_sm__rgw6ezd9 sprinkles_fontSize_28_sm__rgw6ezbx sprinkles_lineHeight_36_sm__rgw6ezel css-n8z49y"
+          >
+            No NFTs yet
+          </div>
+          <div
+            class="c3 c4 css-142zc9n"
+          >
+            Buy or transfer NFTs to this wallet to get started.
+          </div>
+          <button
+            class="c5"
+            data-testid="nft-explore-nfts-button"
+          >
+            Explore NFTs
+          </button>
+        </div>
+        <div
+          class="c0"
+        >
+          <div
+            class="c1 c2 common__127l8hd1 sprinkles_fontWeight_medium_sm__rgw6ezd9 sprinkles_fontSize_28_sm__rgw6ezbx sprinkles_lineHeight_36_sm__rgw6ezel css-n8z49y"
+          >
+            No tokens yet
+          </div>
+          <div
+            class="c3 c4 css-142zc9n"
+          >
+            Buy or transfer tokens to this wallet to get started.
+          </div>
+          <button
+            class="c5"
+            data-testid="nft-explore-nfts-button"
+          >
+            Explore tokens
+          </button>
+        </div>
+        <div
+          class="c0"
+        >
+          <div
+            class="c1 c2 common__127l8hd1 sprinkles_fontWeight_medium_sm__rgw6ezd9 sprinkles_fontSize_28_sm__rgw6ezbx sprinkles_lineHeight_36_sm__rgw6ezel css-n8z49y"
+          >
+            No activity yet
+          </div>
+          <div
+            class="c3 c4 css-142zc9n"
+          >
+            Your onchain transactions and crypto purchases will appear here.
+          </div>
+        </div>
+        <div
+          class="c0"
+        >
+          <div
+            class="c1 c2 common__127l8hd1 sprinkles_fontWeight_medium_sm__rgw6ezd9 sprinkles_fontSize_28_sm__rgw6ezbx sprinkles_lineHeight_36_sm__rgw6ezel css-n8z49y"
+          >
+            No pools yet
+          </div>
+          <div
+            class="c3 c4 css-142zc9n"
+          >
+            Open a new position or create a pool to get started.
+          </div>
+          <button
+            class="c5"
+            data-testid="nft-explore-nfts-button"
+          >
+            + New position
+          </button>
+        </div>
+      </div>
+    </span>
+  </span>
+</DocumentFragment>
+`;

@@ -1,0 +1,470 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SmartContractSpeedBumpModal should render correctly 1`] = `
+.c5 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  width: 100%;
+  padding: 4px 0;
+}
+
+.c16 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+}
+
+.c6 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: end;
+  -webkit-justify-content: end;
+  -ms-flex-pack: end;
+  justify-content: end;
+  padding: 4px 0;
+  gap: 10px;
+}
+
+.c17 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  gap: 12px;
+}
+
+.c12 {
+  color: #FFFFFF;
+  -webkit-letter-spacing: -0.01em;
+  -moz-letter-spacing: -0.01em;
+  -ms-letter-spacing: -0.01em;
+  letter-spacing: -0.01em;
+}
+
+.c14 {
+  color: #9B9B9B;
+  -webkit-letter-spacing: -0.01em;
+  -moz-letter-spacing: -0.01em;
+  -ms-letter-spacing: -0.01em;
+  letter-spacing: -0.01em;
+}
+
+.c7 {
+  color: #FFFFFF;
+  cursor: pointer;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  cursor: pointer;
+  -webkit-transition-duration: 125ms;
+  transition-duration: 125ms;
+}
+
+.c7:hover {
+  opacity: 0.6;
+}
+
+.c7:active {
+  opacity: 0.4;
+}
+
+.c21 {
+  background-color: transparent;
+  bottom: 0;
+  border-radius: inherit;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  -webkit-transition: 150ms ease background-color;
+  transition: 150ms ease background-color;
+  width: 100%;
+}
+
+.c18 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #FFFFFF12;
+  border-radius: 16px;
+  border: 0;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  font-size: 14px;
+  font-weight: 535;
+  gap: 12px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  line-height: 16px;
+  padding: 8px;
+  position: relative;
+  -webkit-transition: 150ms ease opacity;
+  transition: 150ms ease opacity;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c18:active .c20 {
+  background-color: #B8C0DC3d;
+}
+
+.c18:focus .c20 {
+  background-color: #B8C0DC3d;
+}
+
+.c18:hover .c20 {
+  background-color: #1B1B1B14;
+}
+
+.c18:disabled {
+  cursor: default;
+  opacity: 0.6;
+}
+
+.c18:disabled:active .c20,
+.c18:disabled:focus .c20,
+.c18:disabled:hover .c20 {
+  background-color: transparent;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+
+.c3 {
+  width: 100%;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c0 {
+  will-change: transform,opacity;
+}
+
+.c0[data-reach-dialog-overlay] {
+  z-index: 1040;
+  background-color: transparent;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  overflow-y: scroll;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  background-color: rgba(0,0,0,0.60);
+}
+
+.c1 {
+  overflow-y: auto;
+}
+
+.c1[data-reach-dialog-content] {
+  margin: auto;
+  background-color: #1B1B1B;
+  border: 1px solid #FFFFFF12;
+  box-shadow: 12px 16px 24px rgba(0,0,0,0.24),12px 8px 12px rgba(0,0,0,0.24),4px 4px 8px rgba(0,0,0,0.32);
+  padding: 0;
+  width: 50vw;
+  overflow-y: auto;
+  overflow-x: hidden;
+  max-width: 700px;
+  max-height: 90vh;
+  display: inline-table;
+  border-radius: 20px;
+}
+
+.c4 {
+  background-color: #131313;
+  outline: 1px solid #FFFFFF12;
+  border-radius: 20px;
+  padding: 16px 24px 24px 24px;
+  width: 100%;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #FFFFFF12;
+  width: 48px;
+  height: 48px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-radius: 12px;
+}
+
+.c13 {
+  font-size: 24px;
+  line-height: 32px;
+  text-align: center;
+  font-weight: 500;
+}
+
+.c15 {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  -webkit-letter-spacing: 0em;
+  -moz-letter-spacing: 0em;
+  -ms-letter-spacing: 0em;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.c19 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  height: 40px;
+  border-radius: 12px;
+}
+
+.c10 {
+  height: 28px;
+  width: 28px;
+}
+
+.c10 path {
+  background: #9B9B9B;
+  fill: #EEB317;
+}
+
+.c11 path {
+  fill: #9B9B9B;
+}
+
+@media screen and (max-width:640px) {
+  .c0[data-reach-dialog-overlay] {
+    -webkit-align-items: flex-end;
+    -webkit-box-align: flex-end;
+    -ms-flex-align: flex-end;
+    align-items: flex-end;
+  }
+}
+
+@media screen and (max-width:768px) {
+  .c1[data-reach-dialog-content] {
+    width: 65vw;
+  }
+}
+
+@media screen and (max-width:640px) {
+  .c1[data-reach-dialog-content] {
+    margin: 0;
+    width: 100vw;
+    border-radius: 20px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+}
+
+<body
+  data-scroll-locked=""
+>
+  <div
+    aria-hidden="true"
+  >
+    <span
+      class="t_dark is_inversed _dsp_contents"
+    >
+      <span
+        class=" t_dark _dsp_contents is_Theme"
+      />
+    </span>
+  </div>
+  <reach-portal>
+    <div
+      data-focus-guard="true"
+      style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;"
+      tabindex="0"
+    />
+    <div
+      data-focus-lock-disabled="false"
+    >
+      <div>
+        <div
+          class="c0"
+          data-reach-dialog-overlay=""
+          style="opacity: 0;"
+        >
+          <div
+            aria-label="dialog"
+            aria-modal="true"
+            class="c1"
+            data-reach-dialog-content=""
+            role="dialog"
+            tabindex="-1"
+          >
+            <div
+              class="c2 c3 c4"
+            >
+              <div
+                class="c5 c6"
+                width="100%"
+              >
+                <svg
+                  class="c7"
+                  data-testid="Dialog-closeButton"
+                  fill="none"
+                  height="24"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <line
+                    x1="18"
+                    x2="6"
+                    y1="6"
+                    y2="18"
+                  />
+                  <line
+                    x1="6"
+                    x2="18"
+                    y1="6"
+                    y2="18"
+                  />
+                </svg>
+              </div>
+              <div
+                class="c8 c3"
+              >
+                <div
+                  class="c9"
+                >
+                  <svg
+                    class="c10 c11"
+                    fill="#EEB317"
+                    viewBox="0 0 16 16"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2a1 1 0 0 1 0-2z"
+                    />
+                  </svg>
+                </div>
+                <div
+                  class="c12 c13 css-4kpdx7"
+                >
+                  Is this a wallet address?
+                </div>
+                <div
+                  class="c14 c15 css-1urox24"
+                >
+                  You're about to send tokens to a special type of address - a smart contract. Double-check it's the address you intended to send to. If it's wrong, your tokens could be lost forever.
+                </div>
+              </div>
+              <div
+                class="c16 c17"
+              >
+                <button
+                  class="c18 c19"
+                >
+                  <div
+                    class="c20 c21"
+                  />
+                  Cancel
+                </button>
+                <button
+                  class="c18 c19"
+                >
+                  <div
+                    class="c20 c21"
+                  />
+                  Continue
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      data-focus-guard="true"
+      style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;"
+      tabindex="0"
+    />
+  </reach-portal>
+</body>
+`;

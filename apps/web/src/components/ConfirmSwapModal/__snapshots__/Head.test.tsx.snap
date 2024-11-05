@@ -1,0 +1,331 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ConfirmSwapModal/Head should render correctly for a Limit order 1`] = `
+<DocumentFragment>
+  .c0 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  width: 100%;
+}
+
+.c2 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+}
+
+.c1 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+}
+
+.c3 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: left;
+  -webkit-justify-content: left;
+  -ms-flex-pack: left;
+  justify-content: left;
+}
+
+.c6 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: right;
+  -webkit-justify-content: right;
+  -ms-flex-pack: right;
+  justify-content: right;
+  gap: 10px;
+}
+
+.c5 {
+  color: #FFFFFF;
+  -webkit-letter-spacing: -0.01em;
+  -moz-letter-spacing: -0.01em;
+  -ms-letter-spacing: -0.01em;
+  letter-spacing: -0.01em;
+}
+
+.c4 {
+  -webkit-transition: display 250ms ease-in-out, -webkit-transform 250ms ease-in-out;
+  -webkit-transition: display 250ms ease-in-out, transform 250ms ease-in-out;
+  transition: display 250ms ease-in-out, transform 250ms ease-in-out;
+  -webkit-animation: iCPeaJ 250ms ease-in-out forwards;
+  animation: iCPeaJ 250ms ease-in-out forwards;
+}
+
+.c4.exiting {
+  -webkit-animation: bbnGid 250ms ease-in-out;
+  animation: bbnGid 250ms ease-in-out;
+}
+
+.c7 {
+  color: #FFFFFF;
+  cursor: pointer;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  cursor: pointer;
+  -webkit-transition-duration: 125ms;
+  transition-duration: 125ms;
+}
+
+.c7:hover {
+  opacity: 0.6;
+}
+
+.c7:active {
+  opacity: 0.4;
+}
+
+<span
+    class=" _dsp_contents"
+  >
+    <span
+      class=" t_dark _dsp_contents is_Theme"
+    >
+      <div
+        class="c0 c1"
+        width="100%"
+      >
+        <div
+          class="c2 c3"
+        >
+          <div
+            class="c4"
+          >
+            <div
+              class="c5 css-n8z49y"
+            >
+              Review limit
+            </div>
+          </div>
+        </div>
+        <div
+          class="c2 c6"
+        >
+          <svg
+            class="c7"
+            data-testid="confirmation-close-icon"
+            fill="none"
+            height="24"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <line
+              x1="18"
+              x2="6"
+              y1="6"
+              y2="18"
+            />
+            <line
+              x1="6"
+              x2="18"
+              y1="6"
+              y2="18"
+            />
+          </svg>
+        </div>
+      </div>
+    </span>
+  </span>
+</DocumentFragment>
+`;
+
+exports[`ConfirmSwapModal/Head should render correctly for a classic swap 1`] = `
+<DocumentFragment>
+  .c0 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  width: 100%;
+}
+
+.c2 {
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+}
+
+.c1 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+}
+
+.c3 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: left;
+  -webkit-justify-content: left;
+  -ms-flex-pack: left;
+  justify-content: left;
+}
+
+.c6 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: right;
+  -webkit-justify-content: right;
+  -ms-flex-pack: right;
+  justify-content: right;
+  gap: 10px;
+}
+
+.c5 {
+  color: #FFFFFF;
+  -webkit-letter-spacing: -0.01em;
+  -moz-letter-spacing: -0.01em;
+  -ms-letter-spacing: -0.01em;
+  letter-spacing: -0.01em;
+}
+
+.c4 {
+  -webkit-transition: display 250ms ease-in-out, -webkit-transform 250ms ease-in-out;
+  -webkit-transition: display 250ms ease-in-out, transform 250ms ease-in-out;
+  transition: display 250ms ease-in-out, transform 250ms ease-in-out;
+  -webkit-animation: iCPeaJ 250ms ease-in-out forwards;
+  animation: iCPeaJ 250ms ease-in-out forwards;
+}
+
+.c4.exiting {
+  -webkit-animation: bbnGid 250ms ease-in-out;
+  animation: bbnGid 250ms ease-in-out;
+}
+
+.c7 {
+  color: #FFFFFF;
+  cursor: pointer;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  cursor: pointer;
+  -webkit-transition-duration: 125ms;
+  transition-duration: 125ms;
+}
+
+.c7:hover {
+  opacity: 0.6;
+}
+
+.c7:active {
+  opacity: 0.4;
+}
+
+<span
+    class="t_dark is_inversed _dsp_contents"
+  >
+    <span
+      class=" t_dark _dsp_contents is_Theme"
+    >
+      <div
+        class="c0 c1"
+        width="100%"
+      >
+        <div
+          class="c2 c3"
+        >
+          <div
+            class="c4"
+          >
+            <div
+              class="c5 css-n8z49y"
+            >
+              Review swap
+            </div>
+          </div>
+        </div>
+        <div
+          class="c2 c6"
+        >
+          <svg
+            class="c7"
+            data-testid="confirmation-close-icon"
+            fill="none"
+            height="24"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <line
+              x1="18"
+              x2="6"
+              y1="6"
+              y2="18"
+            />
+            <line
+              x1="6"
+              x2="18"
+              y1="6"
+              y2="18"
+            />
+          </svg>
+        </div>
+      </div>
+    </span>
+  </span>
+</DocumentFragment>
+`;
